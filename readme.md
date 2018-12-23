@@ -1,4 +1,4 @@
-# 喋ボテン
+# 喋ボテン talkative_cactus
 
 ### 世の中には、触ると痛いもの、触ってはいけないもの。
 
@@ -17,3 +17,7 @@
 満更でもないときと、ニュートラルな感情のとき。
 
 ### 機嫌の悪い時は、竜の逆鱗ならぬサボテンのトゲに触れてしまいます。
+
+I tried to speak in order to touch what I should not touch.
+I believe that combining cactus with a touch sensor will make plants human-like charm.
+Biorhythms are generated using sensors and functions, and dialogue changes between good mood and bad mood.
